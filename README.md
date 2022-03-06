@@ -2,7 +2,7 @@
 - 👀  I'm interested in 3D modeling software development
 - 🌱 I am currently learning to speak  github
 - 💞️ I’m looking to collaborate on  FreeCAD
-- 📫 How to reach me  telegram @Lexarand
+- 📫 How to reach me  telegram@Lexarand
 
 <!---
 Lexarand/Lexarand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
